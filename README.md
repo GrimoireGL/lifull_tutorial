@@ -13,6 +13,8 @@
 
 # 基礎編
 
+* [レポジトリ](https://github.com/GrimoireGL/tutorial2)
+
 # 応用編
 
 * [サンプルコードレポジトリ](https://github.com/GrimoireGL/tutorial3)
