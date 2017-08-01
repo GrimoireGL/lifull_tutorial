@@ -23,7 +23,7 @@
 ## ローカルサーバーの建て方がわからない
 
 Macの場合はターミナルから簡単に起動する方法があるが、どの環境でも動くChromeプラグインを使うのが一番おすすめ。
-https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=ja
+[Chrome Web Server](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=ja)
 
 ## `git command was not found`などと表示される(応用編でcauldronを使用時)
 
