@@ -25,6 +25,11 @@
 Macの場合はターミナルから簡単に起動する方法があるが、どの環境でも動くChromeプラグインを使うのが一番おすすめ。
 [Chrome Web Server](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=ja)
 
+### ファイルスキームでテスト用にアクセスしたい場合
+
+`file://`でアクセスされるとブラウザはセキュリティ上の理由からAjaxリクエストをすることができません。
+そのため、もし必要な場合は解説する`goml`ファイルなどをHTMLに埋め込むことによって一時しのぎができます。この場合でも画像ファイルなどは外部から読み込むことはできますが、モデルファイルなどはAjaxリクエストを内部で飛ばしてコンテンツを取得するためできません。
+
 ## `git command was not found`などと表示される(応用編でcauldronを使用時)
 
 gitへPATHが通っていないと利用することができない。PATHを通してください。
