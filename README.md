@@ -18,6 +18,12 @@
 * [サンプルコードレポジトリ](https://github.com/GrimoireGL/tutorial3)
 * [解説記事](http://qiita.com/moajo/items/ca1b1de7bffbe3b591c7)
 
+# その他参考になる記事など
+
+* [寿司](https://pnlybubbles.github.io/custom-sushi-3d/)
+* [Grimoire.jsでシェーダーを書く](http://qiita.com/kyasbal_1994/items/cff1466719934f461ca8)
+* [今回の勉強会の内容に近い動画(DeNA勉強会での動画)](https://crash.academy/class/92/)
+
 # トラブルシューティング
 
 ## ローカルサーバーの建て方がわからない
